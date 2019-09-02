@@ -1,0 +1,145 @@
+,1,Estados Unidos (USA),1022,794,704,2520
+0,-,Unión Soviética (URS),395,319,296.0,1010.0
+1,2,Reino Unido (GBR),263,295,289.0,847.0
+2,3,China (CHN),227,163,153.0,543.0
+3,4,Alemania (GER),219,246,269.0,734.0
+4,5,Francia (FRA),212,241,260.0,713.0
+5,6,Italia (ITA),208,178,193.0,579.0
+6,7,Hungría (HUN),175,147,169.0,491.0
+7,8,Rusia (RUS),153,143,164.0,460.0
+8,-,Alemania Oriental (RDA),153,129,127.0,409.0
+9,9,Australia (AUS),146,164,187.0,497.0
+10,10,Suecia (SWE),145,170,179.0,494.0
+11,11,Japón (JPN),142,134,163.0,439.0
+12,12,Finlandia (FIN),101,84,118.0,303.0
+13,13,Corea del Sur (KOR),90,85,89.0,264.0
+14,14,Rumanía (RUM),89,95,122.0,306.0
+15,15,Países Bajos (NED),85,92,108.0,285.0
+16,16,Cuba (CUB),77,69,74.0,220.0
+17,17,Polonia (POL),66,85,131.0,282.0
+18,18,Canadá (CAN),63,102,136.0,301.0
+19,-,Alemania Occidental (RFA),56,67,81.0,204.0
+20,19,Noruega (NOR),56,49,47.0,152.0
+21,20,Bulgaria (BUL),51,86,80.0,217.0
+22,21,Suiza (SUI),50,75,67.0,192.0
+23,-,Checoslovaquia (TCH),49,49,45.0,143.0
+24,22,Nueva Zelanda (NZL),46,27,44.0,117.0
+25,23,Dinamarca (DEN),45,73,76.0,194.0
+26,24,España (ESP),45,64,42.0,151.0
+27,-,Equipo Unificado (EUN),45,38,29.0,112.0
+28,25,Turquía (TUR),40,28,28.0,96.0
+29,26,Bélgica (BEL),39,54,55.0,148.0
+30,27,Ucrania (UKR),35,32,59.0,126.0
+31,28,Grecia (GRE),33,43,41.0,117.0
+32,29,Kenia (KEN),31,38,30.0,99.0
+33,30,Brasil (BRA),30,36,61.0,127.0
+34,-,Yugoslavia (YUG),28,31,31.0,90.0
+35,31,Sudáfrica (RSA),25,32,29.0,86.0
+36,32,Jamaica (JAM),22,33,22.0,77.0
+37,33,Etiopía (ETH),22,9,22.0,53.0
+38,34,Argentina (ARG),21,25,28.0,74.0
+39,35,Kazajstán (KAZ),19,22,28.0,69.0
+40,36,Austria (AUT),18,33,36.0,87.0
+41,37,Irán (IRI),18,21,29.0,68.0
+42,38,Corea del Norte (PRK),16,15,23.0,54.0
+43,39,República Checa (CZE),15,17,22.0,54.0
+44,40,Bielorrusia (BLR),13,28,43.0,84.0
+45,41,México (MEX),13,24,32.0,69.0
+46,42,Croacia (CRO),11,10,12.0,33.0
+47,43,Eslovaquia (SVK),9,11,8.0,28.0
+48,44,Irlanda (IRL),9,10,11.0,30.0
+49,45,Estonia (EST),9,9,16.0,34.0
+50,46,Tailandia (THA),9,8,13.0,30.0
+51,47,Uzbekistán (UZB),9,7,17.0,33.0
+52,48,India (IND),9,7,12.0,28.0
+53,49,Georgia (GEO),8,6,18.0,32.0
+54,50,Azerbaiyán (AZE),7,12,25.0,44.0
+55,51,Indonesia (INA),7,12,11.0,30.0
+56,52,Egipto (EGY),7,9,13.0,29.0
+57,53,Lituania (LTU),6,6,13.0,21.0
+58,54,Marruecos (MAR),6,5,12.0,23.0
+59,55,Bahamas (BAH),6,2,6.0,14.0
+60,56,Colombia (COL),5,9,14.0,28.0
+61,57,Eslovenia (SLO),5,8,10.0,23.0
+62,58,Argelia (ALG),5,4,8.0,17.0
+63,59,Portugal (POR),4,8,12.0,24.0
+64,60,Letonia (LAT),3,11,5.0,19.0
+65,61,Nigeria (NGR),3,8,13.0,24.0
+66,62,China Taipei (TPE),3,7,14.0,24.0
+67,63,Serbia (SRB),3,6,6.0,15.0
+68,64,Venezuela (VEN),3,4,10.0,17.0
+69,65,Zimbabue (ZIM),3,4,1.0,8.0
+70,66,Túnez (TUN),3,3,7.0,13.0
+71,67,Pakistán (PAK),3,3,4.0,10.0
+72,68,República Dominicana (DOM),3,2,2.0,7.0
+73,69,Camerún (CMR),3,1,1.0,5.0
+74,70,Mongolia (MGL),2,10,14.0,26.0
+75,71,Chile (CHI),2,7,4.0,13.0
+76,72,Trinidad y Tobago (TRI),2,5,12.0,19.0
+77,73,Armenia (ARM),2,5,9.0,16.0
+78,74,Uganda (UGA),2,3,2.0,7.0
+79,75,Uruguay (URU),2,2,6.0,10.0
+80,76,Vietnam (VIE),1,3,0.0,4.0
+81,77,Perú (PER),1,3,0.0,4.0
+82,78,Puerto Rico (PUR),1,2,6.0,9.0
+83,79,Singapur (SIN),1,2,2.0,5.0
+84,80,Israel (ISR),1,1,7.0,9.0
+85,81,Independientes (IOA),1,1,3.0,5.0
+86,82,Costa Rica (CRC),1,1,2.0,4.0
+87,83,Tayikistán (TJK),1,1,2.0,4.0
+88,84,Baréin (BRN),1,1,1.0,3.0
+89,85,Costa de Marfil (CIV),1,1,1.0,3.0
+90,86,Hong Kong (HKG),1,1,1.0,3.0
+91,87,Siria (SYR),1,1,1.0,3.0
+92,88,Granada (GRN),1,1,0.0,2.0
+93,89,Burundi (BDI),1,1,0.0,2.0
+94,90,Ecuador (ECU),1,1,0.0,2.0
+95,91,Luxemburgo (LUX),1,1,0.0,2.0
+96,92,Panamá (PAN),1,0,2.0,3.0
+97,93,Emiratos Árabes Unidos (EUA),1,0,1.0,2.0
+98,94,Mozambique (MOZ),1,0,1.0,2.0
+99,95,Surinam (SUR),1,0,1.0,2.0
+100,96,Jordania (JOR),1,0,0.0,1.0
+101,97,Kosovo (KOS),1,0,0.0,1.0
+102,98,Fiyi (FIJ),1,0,0.0,1.0
+103,99,Malasia (MAS),0,7,4.0,11.0
+104,100,Namibia (NAM),0,4,0.0,4.0
+105,101,Filipinas (PHI),0,3,7.0,10.0
+106,102,Moldavia (MDA),0,2,6.0,8.0
+107,103,Islandia (ISL),0,2,2.0,4.0
+108,104,Líbano (LIB),0,2,2.0,4.0
+109,-,Serbia y Montenegro (SCG),0,2,0.0,2.0
+110,105,Tanzania (TAN),0,2,0.0,2.0
+111,106,Sri Lanka (SRI),0,2,0.0,2.0
+112,107,Catar (QAT),0,1,4.0,5.0
+113,-,Bohemia (BOH),0,1,3.0,4.0
+114,108,Ghana (GHA),0,1,3.0,4.0
+115,109,Arabia Saudí (KSA),0,1,2.0,3.0
+116,110,Kirguistán (KGZ),0,1,2.0,3.0
+117,111,Níger (NIG),0,1,1.0,2.0
+118,112,Haití (HAI),0,1,1.0,2.0
+119,113,Zambia (ZAM),0,1,1.0,2.0
+120,-,Antillas Neerlandesas (AHO),0,1,0.0,1.0
+121,114,Botsuana (BOT),0,1,0.0,1.0
+122,115,Chipre (CYP),0,1,0.0,1.0
+123,116,Gabón (GAB),0,1,0.0,1.0
+124,117,Guatemala (GUA),0,1,0.0,1.0
+125,118,Islas Vírgenes de los Estados Unidos (ISV),0,1,0.0,1.0
+126,119,Montenegro (MNE),0,1,0.0,1.0
+127,120,Paraguay (PAR),0,1,0.0,1.0
+128,121,Senegal (SEN),0,1,0.0,1.0
+129,122,Sudán (SUD),0,1,0.0,1.0
+130,123,Tonga (TGA),0,1,0.0,1.0
+131,-,Federación de las Indias Occidentales (BWI),0,0,2.0,2.0
+132,124,Afganistán (AFG),0,0,2.0,2.0
+133,125,Kuwait (KUW),0,0,2.0,2.0
+134,126,Macedonia (MKD),0,0,1.0,1.0
+135,127,Barbados (BAR),0,0,1.0,1.0
+136,128,Bermudas (BER),0,0,1.0,1.0
+137,129,Eritrea (ERI),0,0,1.0,1.0
+138,130,Irak (IRQ),0,0,1.0,1.0
+139,131,Guyana (GUY),0,0,1.0,1.0
+140,132,Mauricio (MRI),0,0,1.0,1.0
+141,133,Togo (TOG),0,0,1.0,1.0
+142,134,Yibuti (DJI),0,0,1.0,1.0
+143,Total,4445,4411,4605,13.460999999999999,
