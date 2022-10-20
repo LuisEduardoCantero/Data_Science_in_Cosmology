@@ -1,8 +1,6 @@
-# Analisis de Datos 2019
+# Data Science
 ## DCI-UGTO
 
-### Alma González
-### email: alma.gonzalez@fisica.ugto.mx
 
 
 ## TEMAS
@@ -18,20 +16,10 @@
     a) Inferencia clásica
 
     b) Inferencia Bayesiana
-5.- Aprendizaje Automatizado (Machine learning, deep learning, and all that... at least we will try)
+    
+5.- Aprendizaje Automatizado (Machine learning, deep learning)
 
 ### NOTA: Inevitablemente muchos ejemplos, ejercicios y/o proyectos serán
 ### aplicaciones en cosmología.
 
-## Evaluación
 
--- 60 %  Tareas y Proyectos parciales. Github organizado. Se revisa continuamente.
-
-    -- Tareas y proyectos preferentemente en jupyter notebooks. 
-    Si se presentan en pdf deberán añadirse los scripts o códigos. 
-
--- 40% Proyecto final 
-
-## Bibliografía
-
-    Se proporciona durante el curso, conforme se usa. 
